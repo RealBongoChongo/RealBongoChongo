@@ -1,16 +1,16 @@
 # About Me
 I've been a developer for 4+ years and I'm mainly fluent in Python, Javascript, and Luau. I create things ranging from Discord bots to Roblox games to Discord bot dashboards. I use tools such as MongoDB, SQLite, Bootstrap, and jQuery. If you want to see some of the projects I've made, you can head over to my [portfolio](https://realbongochongo.github.io).
 # Roblox/Discord/Website Commissions
-## What I Can Provide (Roblox-Wise)
+## What I Can Do (Roblox-Wise)
 - Possible Game Optimizations
 - API Connections 
 - Discord<>Roblox Connections 
-## What I Can Provide (Discord-Wise)
+## What I Can Do (Discord-Wise)
 - Roblox<>Discord Linking
 - Moderation Bot
 - Economy Bot
 - Special Orders 
-## What I Can Provide (Website-Wise)
+## What I Can Do (Website-Wise)
 - Discord Bot Dashboard 
 - I may consider special orders
 ## What I Don't Do
