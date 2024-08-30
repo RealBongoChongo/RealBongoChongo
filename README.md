@@ -14,7 +14,7 @@ I've been a developer for 4+ years and I'm mainly fluent in Python, Javascript, 
 - Discord Bot Dashboard 
 - I may consider special orders
 
-**The above listed is only ideas, you can bring up things with me and I'll see if I can do it for you**
+## ```The above listed is only ideas, you can bring up things with me and I'll see if I can do it for you```
 
 ## What I Don't Do
 - Admin Systems (Roblox)
